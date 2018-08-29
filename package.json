@@ -20,6 +20,7 @@
     "translations"
   ],
   "main": "lib/main.js",
+  "types": "lib/main.d.ts",
   "dependencies": {
     "async": "2.6.1",
     "he": "1.1.1",
